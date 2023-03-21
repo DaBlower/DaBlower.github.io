@@ -5,4 +5,4 @@
 5. Fix light mode animation when hovering on featured article, it's not transparent (main.css) - DONE
 That's it for now.
 
-Current timestamp: 1:42:08
+Current timestamp: 1:46:39
