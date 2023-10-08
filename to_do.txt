@@ -1,8 +1,0 @@
-1. Change title headlines to on top of photo instead of under (index.html)
-2. Sort out branches and forks
-3. HTML, CSS and JavaScript (index.html, main.css, main.js, post.html, images folder)
-4. Swiper JS
-5. Fix light mode animation when hovering on featured article, it's not transparent (main.css) - DONE
-That's it for now.
-
-Current timestamp: 1:46:39
